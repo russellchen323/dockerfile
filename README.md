@@ -1,6 +1,1 @@
-<!-- This content will not 
-
-12
-312
-
-appear in the rendered Markdown -->
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
